@@ -6,7 +6,7 @@ Project Objective : The dashboard provides a comprehensive view of credit card o
 
 Dataset : Real-time data connection to SQL database
 
-Steps : 
+Key Features : 
 •	Real-time data connection to SQL database 
 •	Weekly tracking of credit card transactions and balances 
 •	KPI monitoring
