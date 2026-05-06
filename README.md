@@ -22,3 +22,5 @@ Tech Stack :
 Key Impact:
 Instead of static reports, stakeholders now get dynamic, drill-down insights that help in faster decision-making, risk management, and improved financial tracking.
 Data isn’t just numbers—it’s a story. And with the right tools, that story becomes actionable.
+
+![image alt](https://github.com/rahul7even/Credit_Card_Financial_Dashboard/blob/0b48d38071e33c578d508f75668c7e9bdf36c67f/CreditCardCustomerReport.pdf)
