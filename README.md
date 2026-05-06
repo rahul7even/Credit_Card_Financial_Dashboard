@@ -23,4 +23,5 @@ Key Impact:
 Instead of static reports, stakeholders now get dynamic, drill-down insights that help in faster decision-making, risk management, and improved financial tracking.
 Data isn’t just numbers—it’s a story. And with the right tools, that story becomes actionable.
 
-![image alt](CreditCardCustomerReport.pdf)
+<img width="1650" height="1275" alt="CreditCardCustomerReport" src="https://github.com/user-attachments/assets/e1f8140e-b5d0-4be3-aeb5-5a4511ea7380" />
+
